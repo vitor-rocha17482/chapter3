@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chapter3</string>
+    <string name="convert_string">Convert</string>
+    <string name="button_string">Button</string>
+    <string name="no_value_string">No Value</string>
+    <string name="dollars_string">dollars</string>
+
+</resources>
